@@ -1,0 +1,7 @@
+C:\Users\wirioliveira\source\repos\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\wirioliveira\source\repos\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\wirioliveira\source\repos\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\wirioliveira\source\repos\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\wirioliveira\source\repos\POO\Propriedades\obj\Debug\Propriedades.pdb

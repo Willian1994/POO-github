@@ -1,0 +1,7 @@
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\Users\wirioliveira\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
